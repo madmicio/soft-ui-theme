@@ -12,7 +12,7 @@ soft_ui:
   # Main Interface Colors
   primary-color: "#5F9BEA"
   light-primary-color: var(--primary-color)
-  primary-background-color: "#e3edf7" #"#e3edf7"
+  # primary-background-color: "#e3edf7" #"#e3edf7"
   secondary-background-color: var(--primary-background-color)
   divider-color: var(--primary-background-color)
   # Text
@@ -37,7 +37,7 @@ soft_ui:
 
   #button
   active-background-button-color: '#0080ff'
-  deactive-background-button-color: '#f2f0fa'
+  deactive-background-button-color: "#f2f0fa"
   button-border-standard: rgba(0, 128, 255, .5)
   # Sliders
   paper-slider-knob-color: "#5F9BEA"
@@ -82,3 +82,27 @@ soft_ui:
   paper-font-caption_-_font-family: "var(--primary-font-family)"
   paper-font-title_-_font-family: "var(--primary-font-family)"
 
+  # soft_ui color
+  primary-background-color: "#ffffff" #"#e3edf7"
+  shadow-low: "#d7dde1"
+  shadow-high: "#ffffff"
+  soft-ui-middle-color: "#0080ff"
+  soft-ui-boder-shadow: "#ffffff"
+  soft-ui-button-background-color: "#f2f0fa"
+
+  # personalizzazioni
+  ha-card-border-radius: '15px'
+  ha-card-box-shadow: '0px 0px 0px 0px rgba(0,0,0,0)'
+  pagina-1-background: 'linear-gradient(to left, #f6f5fa 340px, rgba(0, 0, 0, .05) 340px 342px, #ffffff 340px 100%)'
+  pagina-2-background: 'linear-gradient(to left, #f6f5fa 325px, rgba(0, 0, 0, .05) 325px 327px, #ffffff 327px 100%)'
+  simple-background: "#fffff"
+  border-flat: "#e3edf7" #bordo 2px bottone soft ui
+  soft-ui-button-border: "#c2ced9" #bordo bottone soft-ui
+  inner-shine: "#f3feff"
+  light-shadow: "#eef6fc" #embra chiara nord-over
+  dark-shadow: "#bfd1e1" # ombra sud-est
+  sidebar-border-color: rgba(0, 0, 0, .05)
+
+  iron-overlay-backdrop-filter: 'blur(10px) grayscale(50%)'
+  iron-overlay-backdrop-background-color: 'rgba(41,128,185,0.25)'
+ 
