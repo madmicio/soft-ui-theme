@@ -2,7 +2,7 @@
  
 
         
-```
+
 ![all](example/soft_ui_style.png)
 soft_ui style
 
