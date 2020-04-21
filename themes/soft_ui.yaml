@@ -91,6 +91,7 @@ soft_ui:
   soft-ui-button-background-color: "#f2f0fa"
 
   # personalizzazioni
+  # card-border-color: rgba(57,128,228,0.4)
   ha-card-border-radius: '15px'
   ha-card-box-shadow: '0px 0px 0px 0px rgba(0,0,0,0)'
   pagina-1-background: 'linear-gradient(to left, #f6f5fa 340px, rgba(0, 0, 0, .05) 340px 342px, #ffffff 340px 100%)'
@@ -102,6 +103,7 @@ soft_ui:
   light-shadow: "#eef6fc" #embra chiara nord-over
   dark-shadow: "#bfd1e1" # ombra sud-est
   sidebar-border-color: rgba(0, 0, 0, .05)
+  
 
   iron-overlay-backdrop-filter: 'blur(10px) grayscale(50%)'
   iron-overlay-backdrop-background-color: 'rgba(41,128,185,0.25)'
